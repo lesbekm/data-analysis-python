@@ -1,12 +1,19 @@
-# data-analysis-python
-This project includes data analysis using Python.
+# Data Analysis Portfolio (Python)
 
-Tools:
+This repository includes multiple data analysis projects using Python.
+
+## Tools
 - Pandas
 - NumPy
 - Matplotlib
+- Scikit-learn
 
-The project focuses on data cleaning, analysis and visualization.
-Example:
-- Data cleaning using Pandas
-- Data visualization using Matplotlib
+## Projects
+- Data cleaning and preprocessing
+- Exploratory data analysis (EDA)
+- Data visualization
+- Machine Learning (Random Forest)
+- Data modeling
+
+## Goal
+To analyze data, build models and visualize results.
